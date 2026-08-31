@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Sobre mim
+## Sobre mim
 
 <hr style="height:1px; border:none; background-color:#30363d;" />
  
