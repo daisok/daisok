@@ -1,6 +1,6 @@
 ## About me
  
-Currently a software engineering student (Analysis and Systems Development) at PUC Minas (Pontifícia Universidade Católica de Minas Gerais).
+Currently a software development student (Analysis and Systems Development) at PUC Minas (Pontifícia Universidade Católica de Minas Gerais).
  
 - **Currently working on:** Personal and academic projects focused on web development and automation.
 - **Currently learning:** Data structures, software architecture, advanced UI/UX principles, graphic design trends and improving my skills in Python and JavaScript.
