@@ -1,19 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**daisok/daisok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
+- 🔭 **Atualmente trabalhando em:** Projetos pessoais e acadêmicos voltados para desenvolvimento web e automação.
+- 🌱 **Atualmente aprendendo:** Estrutura de dados, arquitetura de software e aperfeiçoando meu domínio em Python e JavaScript.
+- 👯 **Buscando colaborar em:** Projetos open-source desafiadores e hackathons.
+- 🤝 **Buscando ajuda com:** Melhores práticas de Clean Code e padrões de projeto (Design Patterns).
+- 💬 **Pergunte-me sobre:** Desenvolvimento Frontend básico, lógica de programação e ferramentas de produtividade como Notion.
+- ⚡ **Fato curioso:** Adoro café, resolver quebra-cabeças lógicos e editar vídeos nas horas vagas!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,vscode,sublime,pr,ps,ae,figma,notion,linkedin,github,)](https://skillicons.dev)
