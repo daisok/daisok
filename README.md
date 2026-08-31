@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,py,pr,ps,notion,linkedin,js,html,github,figma,css,ae)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=daisok&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
