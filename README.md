@@ -18,27 +18,6 @@ Currently a software engineering student (Analysis and Systems Development) at P
 | **Design & UI** | UI/UX Design, Graphic Design, Figma, Adobe Photoshop, Adobe After Effects |
 | **Agile Methodologies** | Kanban, Scrum |
 
-
-## Sobre mim
- 
-Atualmente, estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (Pontifícia Universidade Católica de Minas Gerais).
- 
-- **Atualmente trabalhando em:** Projetos pessoais e acadêmicos voltados para desenvolvimento web e automação.
-- **Atualmente aprendendo:** Estrutura de dados, arquitetura de software e aperfeiçoando meu domínio em Python e JavaScript.
-- **Buscando colaborar em:** Projetos open-source desafiadores e hackathons.
-- **Buscando ajuda com:** Melhores práticas de Clean Code e padrões de projeto (Design Patterns).
-- **Pergunte-me sobre:** Desenvolvimento Frontend básico, lógica de programação e ferramentas de produtividade como Notion.
-- **Fato curioso:** Adoro café, resolver quebra-cabeças lógicos e editar vídeos nas horas vagas!
-
-## Minhas Competências 
-<div align="center">
-
-| Área | Habilidades |
-| :--- | :--- |
-| **Idiomas** | Português (Nativo), Inglês, Japonês |
-| **Produtividade & Office** | Microsoft Word, Microsoft Excel, Microsoft PowerPoint |
-| **Metodologias Ágeis** | Kanban, Scrum |
-
 </div>
 
 ## Tech Stack
