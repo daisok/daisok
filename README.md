@@ -1,3 +1,24 @@
+## About me
+ 
+Currently a software engineering student (Analysis and Systems Development) at PUC Minas (Pontifícia Universidade Católica de Minas Gerais).
+ 
+- **Currently working on:** Personal and academic projects focused on web development and automation.
+- **Currently learning:** Data structures, software architecture, advanced UI/UX principles, graphic design trends and improving my skills in Python and JavaScript.
+- **Looking for help with:** Clean Code best practices, Design Patterns, and creating seamless user experiences.
+- **Ask me about:** Frontend development, programming logic, graphic design, and productivity tools like Notion.
+- **Fun fact:** I love tea, solving logic puzzles, streaming and editing videos in my free time!
+
+## My Skills
+<div align="center">
+
+| Area | Skills |
+| :--- | :--- |
+| **Languages** | Portuguese (Native), English, Japanese |
+| **Productivity & Office** | Microsoft Word, Microsoft Excel, Microsoft PowerPoint |
+| **Design & UI** | UI/UX Design, Graphic Design, Figma, Adobe Photoshop, Adobe After Effects |
+| **Agile Methodologies** | Kanban, Scrum |
+
+
 ## Sobre mim
  
 Atualmente, estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (Pontifícia Universidade Católica de Minas Gerais).
@@ -20,14 +41,6 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (Po
 
 </div>
 
-## Socials
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daaisok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daiany-sousa-56b576236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daaisok@gmail.com) 
-
-</div>
-
 ## Tech Stack
 
 <div align="center">
@@ -46,5 +59,11 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (Po
 
 </div>
 
+## Socials
 
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daaisok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daiany-sousa-56b576236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daaisok@gmail.com) 
+
+</div>
 
