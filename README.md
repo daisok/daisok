@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Sobre mim
----
+--
  Atualmente, estudante de Analise e Desenvolvimento de Sistemas na PUC Minas (Pontifcia Universidade Catolica de Minas Gerais).
  
 - **Atualmente trabalhando em:** Projetos pessoais e acadêmicos voltados para desenvolvimento web e automação.
@@ -10,7 +10,7 @@
 - **Buscando ajuda com:** Melhores práticas de Clean Code e padrões de projeto (Design Patterns).
 - **Pergunte-me sobre:** Desenvolvimento Frontend básico, lógica de programação e ferramentas de produtividade como Notion.
 - **Fato curioso:** Adoro café, resolver quebra-cabeças lógicos e editar vídeos nas horas vagas!
----
+-
 ## Minhas Competências 
 
 | Área | Habilidades |
