@@ -1,6 +1,7 @@
 # Hi there 👋
 
-### 🚀 Sobre mim
+###Sobre mim
+---
 - 🔭 **Atualmente trabalhando em:** Projetos pessoais e acadêmicos voltados para desenvolvimento web e automação.
 - 🌱 **Atualmente aprendendo:** Estrutura de dados, arquitetura de software e aperfeiçoando meu domínio em Python e JavaScript.
 - 👯 **Buscando colaborar em:** Projetos open-source desafiadores e hackathons.
