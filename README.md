@@ -13,7 +13,7 @@ Currently a software development student (Analysis and Systems Development) at P
 
 | Area | Skills |
 | :--- | :--- |
-| **Languages** | Portuguese (Native), English, Japanese |
+| **Languages** | Portuguese (Native), English (Fluent), Japanese (Beginner) |
 | **Productivity & Office** | Microsoft Word, Microsoft Excel, Microsoft PowerPoint |
 | **Design & UI** | UI/UX Design, Graphic Design, Figma, Adobe Photoshop, Adobe After Effects |
 | **Agile Methodologies** | Kanban, Scrum |
