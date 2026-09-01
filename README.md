@@ -1,35 +1,24 @@
-## 👤 About me
+# Hi, I'm Daisok 👋
 
-I am an Analysis and Systems Development student at PUC Minas, passionate about turning logic into efficient and visually stunning digital solutions. Currently, I focus on web development projects, automation, and creating seamless user experiences.
+I am an Analysis and Systems Development student at PUC Minas (Pontifícia Universidade Católica de Minas Gerais) and an English teacher based in Belo Horizonte, MG. I blend programming logic with graphic design to build efficient, visually stunning digital solutions and seamless user experiences.
 
-## 🎯 What I'm working on
+### Current Focus
+*   Developing personal and academic web development projects and automations.
+*   Deepening my knowledge in software architecture, data structures, and advanced UI/UX principles.
+*   Improving my development workflow using Python and JavaScript.
 
-* Personal and academic projects focused on web development and process automation.
-
-## 📚 What I'm learning & improving
-
-* Back-end & Logic: Data structures, software architecture, and sharpening my skills in Python and JavaScript.
-* Front-end & Design: Advanced UI/UX principles and graphic design trends.
-
-## 🔍 Looking for growth in
-
-* Clean Code best practices.
-* Implementing Design Patterns.
-* Creating seamless, friction-free user experiences (UX).
-
-## 💬 Ask me about
+### Ask me about
 
 * Frontend development and programming logic.
 * Graphic design and visual identity.
-* Productivity tools (I'm a big Notion enthusiast!).
+* Productivity tools (I'm a big Figma enthusiast!).
 
-## 🎮 Fun facts about me
+### Fun Facts
+*   Fueled by tea.
+*   Passionate about solving logic puzzles.
+*   In my free time, I enjoy streaming and video editing.
 
-* Fueled by tea.
-* I love solving logic puzzles and brain teasers.
-* In my free time, I enjoy streaming and video editing.
-
-## 🧩 My Skills
+## My Skills
 <div align="center">
 
 | Area | Skills |
@@ -41,7 +30,7 @@ I am an Analysis and Systems Development student at PUC Minas, passionate about 
 
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -49,7 +38,7 @@ I am an Analysis and Systems Development student at PUC Minas, passionate about 
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
  
@@ -59,7 +48,7 @@ I am an Analysis and Systems Development student at PUC Minas, passionate about 
 
 </div>
 
-## 🌐 Socials
+## Socials
 
 <div align="center">
 
