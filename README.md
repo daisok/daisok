@@ -1,14 +1,35 @@
-## About me
- 
-Currently a software development student (Analysis and Systems Development) at PUC Minas (Pontifícia Universidade Católica de Minas Gerais).
- 
-- **Currently working on:** Personal and academic projects focused on web development and automation.
-- **Currently learning:** Data structures, software architecture, advanced UI/UX principles, graphic design trends and improving my skills in Python and JavaScript.
-- **Looking for help with:** Clean Code best practices, Design Patterns, and creating seamless user experiences.
-- **Ask me about:** Frontend development, programming logic, graphic design, and productivity tools like Notion.
-- **Fun fact:** I love tea, solving logic puzzles, streaming and editing videos in my free time!
+## 👤 About me
 
-## My Skills
+I am an Analysis and Systems Development student at PUC Minas, passionate about turning logic into efficient and visually stunning digital solutions. Currently, I focus on web development projects, automation, and creating seamless user experiences.
+
+## 🎯 What I'm working on
+
+* Personal and academic projects focused on web development and process automation.
+
+## 📚 What I'm learning & improving
+
+* Back-end & Logic: Data structures, software architecture, and sharpening my skills in Python and JavaScript.
+* Front-end & Design: Advanced UI/UX principles and graphic design trends.
+
+## 🔍 Looking for growth in
+
+* Clean Code best practices.
+* Implementing Design Patterns.
+* Creating seamless, friction-free user experiences (UX).
+
+## 💬 Ask me about
+
+* Frontend development and programming logic.
+* Graphic design and visual identity.
+* Productivity tools (I'm a big Notion enthusiast!).
+
+## 🎮 Fun facts about me
+
+* Fueled by tea.
+* I love solving logic puzzles and brain teasers.
+* In my free time, I enjoy streaming and video editing.
+
+## 🧩 My Skills
 <div align="center">
 
 | Area | Skills |
@@ -20,7 +41,7 @@ Currently a software development student (Analysis and Systems Development) at P
 
 </div>
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -28,7 +49,7 @@ Currently a software development student (Analysis and Systems Development) at P
 
 </div>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
  
@@ -38,7 +59,7 @@ Currently a software development student (Analysis and Systems Development) at P
 
 </div>
 
-## Socials
+## 🌐 Socials
 
 <div align="center">
 
