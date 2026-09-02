@@ -11,7 +11,7 @@ I am an Analysis and Systems Development student at PUC Minas (Pontifícia Unive
 
 * Frontend development and programming logic.
 * Graphic design and visual identity.
-* Productivity tools (I'm a big Figma enthusiast!).
+* Productivity tools (I'm a big Notion enthusiast!).
 
 ### Fun Facts
 *   Fueled by tea.
@@ -25,7 +25,7 @@ I am an Analysis and Systems Development student at PUC Minas (Pontifícia Unive
 | :--- | :--- |
 | **Languages** | Portuguese (Native), English (Fluent), Japanese (Beginner) |
 | **Productivity & Office** | Microsoft Word, Microsoft Excel, Microsoft PowerPoint |
-| **Design & UI** | UI/UX Design, Graphic Design, Figma, Adobe Photoshop, Adobe After Effects |
+| **Design & UI** | UI/UX Design, Graphic Design, Figma, Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro |
 | **Agile Methodologies** | Kanban, Scrum |
 
 </div>
@@ -34,7 +34,7 @@ I am an Analysis and Systems Development student at PUC Minas (Pontifícia Unive
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,vscode,sublime,pr,ps,ae,figma,notion,linkedin,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,vscode,sublime,pr,ps,ae,figma,notion,linkedin)](https://skillicons.dev)
 
 </div>
 
